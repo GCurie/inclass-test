@@ -6,7 +6,7 @@ function setup() {
 
 function draw() {
   background(20);
-  noStroke();
+  //noStroke();
   fill(255, 120, 60);
   circle(mouseX, mouseY, 50);
 }
